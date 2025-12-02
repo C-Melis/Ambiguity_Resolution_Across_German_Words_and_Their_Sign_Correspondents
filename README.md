@@ -1,7 +1,7 @@
 # Ambiguity Resolution Across German Words and Their Sign Correspondents
 ## Melis Çelikkol, Master's Project
 
-This repository contains the code and data for analyzing lexical ambiguity correspondence patterns between German (spoken language) and Deutsche Gebärdensprache/DGS (German Sign Language).
+This repository contains the script and data for analyzing lexical ambiguity correspondence patterns between German (spoken language) and Deutsche Gebärdensprache/DGS (German Sign Language).
 
 ## Overview
 
