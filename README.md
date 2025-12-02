@@ -1,3 +1,6 @@
+# Ambiguity Resolution Across German Words and Their Sign Correspondents
+# Melis Çelikkol, Master's Project
+
 # Cross-Modal Ambiguity Mapping: German and Deutsche Gebärdensprache (DGS)
 
 This repository contains the code and data for analyzing lexical ambiguity correspondence patterns between German (spoken language) and Deutsche Gebärdensprache/DGS (German Sign Language).
