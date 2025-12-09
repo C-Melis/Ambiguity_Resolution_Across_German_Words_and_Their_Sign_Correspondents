@@ -28,4 +28,4 @@ Our annotation process produces complementary data files serving distinct purpos
 
 **Sense and Sign ID Files**: Contains meaning-video_id mappings, where the meaning column combines German translations with sense clarifications for each sign. These files provide the semantic descriptions that enable similarity-based matching. An additional variant containing only German translations (without sense clarifications) is used for ablation testing.
 
-**Pathway Ground Truth Files**: Contains word-pathway-video_id mappings representing our classification of each German word into pathway types based on manual semantic analysis. These files serve exclusively for evaluating whether computational models can independently discover the same correspondence patterns that human annotators identified.
+**Pathway Ground Truth Files**: Contains word-pathway-video_id mappings representing our classification of each German word into pathway types based on manual semantic analysis. These files serve exclusively for evaluating whether computational models can independently discover the same correspondence patterns that are identified by a human annotator.
