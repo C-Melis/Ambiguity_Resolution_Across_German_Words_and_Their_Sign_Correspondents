@@ -24,7 +24,7 @@ The data files include manually annotated mappings showing diverse correspondenc
 
 Our annotation process produces complementary data files serving distinct purposes:
 
-**Manual Annotation Files**: Contains word-sentence-video_id mappings representing contextualized word uses paired with their corresponding DGS sign identifiers. These files enable the prediction system to learn from annotated word-to-sign correspondences.
+**Manual Annotation Files**: Contains word-sentence-video_id mappings representing contextualized word uses paired with their corresponding DGS sign identifiers. These files enable the prediction system to search the annotated word-to-sign correspondences.
 
 **Sense and Sign ID Files**: Contains meaning-video_id mappings, where the meaning column combines German translations with sense clarifications for each sign. These files provide the semantic descriptions that enable similarity-based matching. An additional variant containing only German translations (without sense clarifications) is used for ablation testing.
 
